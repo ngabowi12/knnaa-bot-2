@@ -45,30 +45,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'Gk Ad Bang:v'
-global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://github.com/Bot-Mdnew'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/K7yhLt3v0XFKwu8ZHlyVwY'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
-global.psaweria = '-'
+global.pdana = 'Tanya owner'
+global.povo = 'Tanya owner'
+global.pgopay = '083818409283'
+global.ppulsa = 'Tanya owner'
+global.ppulsa2 = '083818409283'
+global.psaweria = 'GA ADA'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '24106395116'
+global.nomorown = '6283818409283'
+global.namebot = 'HEGIA-MD'
+global.nameown = 'X HEGIA'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6283818409283', 'X HEGIA', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
+global.wm = '「 HEGIA BOTZ |MD⁩ 」' //Main Watermark
+global.wm2 = '    BOT WHATSAPP     '
+global.wm3 = 'BOT |WHATSAPP MD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ✯✯✯✯✯ '
+global.titlebot = 'HEGIA '
 global.author = global.wm
 
 
